@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Plab a project laboratory
+- 🌱 I’m currently learning more aboute JS and RoR (Ruby on Rails)
+- 💬 Ask me about what you want :D!
+- ⚡ Fun fact: i made some games in the begin
+
 <!--
 **Lostkill/Lostkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
