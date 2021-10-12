@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Plab a project laboratory
-- 🌱 I’m currently learning more aboute JS and RoR (Ruby on Rails)
+- 🌱 I’m currently learning more aboute JS and RoR (Ruby on Rails),
+      and maybe some day create a useful AI
 - 💬 Ask me about what you want :D!
 - ⚡ Fun fact: i made some games in the begin
 
